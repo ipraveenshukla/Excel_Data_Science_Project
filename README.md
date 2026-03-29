@@ -33,7 +33,7 @@ I built this data jobs salary dashboard to help job seekers — including myself
 The data comes from my Excel course, which gave me a strong foundation in analyzing data using this powerful tool. I worked with detailed information on job titles, salaries, locations, and essential skills, all of which are presented in this dashboard.
 
 ### Dashboard File
-My final dashboard is in [Salary_Insights_Dashboard.xlsx](Salary_Insights_Dashboard.xlsx).
+My final dashboard is in [Salary_Insights_Dashboard.xlsx](/Project_1_Data_Jobs_Salary_Dashboard/Salary_Insights_Dashboard.xlsx).
 
 ### Excel Skills I Used
 
@@ -60,7 +60,7 @@ The dataset I used contains real-world data science job information from 2023, s
 
 #### 📊 Data Science Job Salaries — Bar Chart
 
-<img src="../Data/Images/1_Salary_Dashboard_Chart1.png" width="900" height="500" alt="Salary Dashboard Chart1">
+<img src="Data/Images/1_Salary_Dashboard_Chart1.png" width="500" height="400" alt="Salary Dashboard Chart1">
 
 - 🛠️ **Excel Features I Used:** I used the bar chart feature with formatted salary values and optimized the layout for clarity.
 - 🎨 **My Design Choice:** I chose a horizontal bar chart to make median salary comparisons easy to scan visually.
@@ -105,7 +105,7 @@ IF(
 
 📉 Dashboard Implementation
 
-<img src="/Data/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="Data/Images/1_Salary_Dashboard_Job_Title.png" width="500" height="500" alt="Salary Dashboard Title">
 
 ---
 
@@ -123,7 +123,7 @@ IF(
 
 📉 Dashboard Implementation
 
-<img src="../Data/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img src="Data/Images/1_Salary_Dashboard_Type.png" width="400" height="450" alt="Salary Dashboard Type">
 
 ---
 
@@ -136,7 +136,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are blocked before they can cause issues
     - 👥 The overall usability and reliability of the dashboard is improved
 
-<img src="../Data/Images/1_salary_dashboard_data_validation.gif" width="425">
+<img src="Data/Images/1_salary_dashboard_data_validation.gif" width="400">
 
 ---
 
@@ -153,6 +153,8 @@ I created this dashboard to showcase real insights into salary trends across var
 
 As a job seeker, I've always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
 
+### Analysis File
+My final Analysis  is in [Project_Analysis.xlsx](/Project_2_Data_Science_Job_Market_Analysis/Project_Analysis.xlsx).
 ### Questions I Wanted to Analyze
 
 To understand the data science job market, I asked the following:
